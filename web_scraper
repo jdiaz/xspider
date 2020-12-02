@@ -1,0 +1,15 @@
+#!/bin/bash
+
+SCRAPER_NAME=$1
+argc=$#
+if [ -z "$SCRAPER_NAME" ] | [ $argc -gt 1 ]
+then
+  echo "usage: ./web_scraper <SCRAPER_NAME>"
+else
+  exec scala scripts/WebScraperScript.scala $SCRAPER_NAME > spider/src/scraper/WebScraper${SCRAPER_NAME}Article.scala &
+  wait
+  exec scala scripts/WebScraperTestScript.scala $SCRAPER_NAME > spider/test/src/scraper/WebScraper${SCRAPER_NAME}ArticleTests.scala &
+  wait
+  exec scala scripts/WebScraperHTMLScript.scala $SCRAPER_NAME > spider/test/resources/${SCRAPER_NAME}.html.test &
+  wait
+fi

@@ -1,0 +1,418 @@
+<div class="content-container">
+  <div class="wrap">
+     <div class="article-header">
+        <strong class="section"><a href="/tecnologia/redes-sociales/">Redes sociales</a></strong>
+        <h1 class="title">LinkedIn despedirá a casi 1,000 empleados</h1>
+        <h2>Los puestos que serán eliminados están en sus departamentos globales de ventas y adquisición de talento.</h2>
+        <div class="toolbar" id="divButtons_gig_containerParent">
+           <div class="toolbar-item item-date">
+              <p>martes, 21 de julio de 2020 - 9:22 a.m.</p>
+           </div>
+           <div class="toolbar-item item-author">
+              <p>Por <span>The Associated Press</span></p>
+           </div>
+           <div id="divButtons" gigid="showShareBarUI" style="width: 1313px; visibility: visible;">
+              <div class="gig-bar-container gig-share-bar-container">
+                 <table cellspacing="0" cellpadding="0" role="presentation">
+                    <tbody>
+                       <tr>
+                          <td style="vertical-align:bottom; white-space:nowrap;zoom:1;">
+                             <div class="gig-button-container gig-button-container-count-right gig-button-container-facebook gig-button-container-facebook-count-right gig-share-button-container gig-button-container-horizontal">
+                                <table cellspacing="0" cellpadding="0" role="presentation">
+                                   <tbody>
+                                      <tr>
+                                         <td class="gig-button-td">
+                                            <div class="gig-button gig-share-button gig-button-up gig-button-count-right" id="divButtons-reaction0" title="" alt="" onclick="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction0'].onClick()" onmouseover="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction0'].changeState('over')" onmouseout="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction0'].changeState('up')" tabindex="0" role="button">
+                                               <table cellpadding="0" cellspacing="0" role="presentation">
+                                                  <tbody>
+                                                     <tr>
+                                                        <td id="divButtons-reaction0-left" aria-hidden="true">
+                                                           <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                              <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-0px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction0-left_img"></div>
+                                                           </button>
+                                                        </td>
+                                                        <td id="divButtons-reaction0-icon" style="zoom:1;vertical-align:middle;text-align:left;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')">
+                                                           <button aria-label="Facebook" type="button" class="tabbing-button" tabindex="0" style="height:25px;">
+                                                              <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-55px 0px;width: 25px;height: 25px;line-height: 25px;background-repeat:no-repeat;position:static;" id="divButtons-reaction0-facebook_img"></div>
+                                                           </button>
+                                                        </td>
+                                                        <td id="divButtons-reaction0-text" style="vertical-align:middle;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')" aria-hidden="true">
+                                                           <div class="gig-button-text gig-share-button-text">Facebook</div>
+                                                        </td>
+                                                        <td id="divButtons-reaction0-right" aria-hidden="true">
+                                                           <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                              <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-5px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction0-right_img"></div>
+                                                           </button>
+                                                        </td>
+                                                     </tr>
+                                                  </tbody>
+                                               </table>
+                                            </div>
+                                         </td>
+                                         <td>
+                                            <div class="gig-counter gig-share-counter gig-counter-$rid gig-counter-right" id="divButtons-reaction0-count" style="background-image: url(&quot;https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25&quot;); background-position: -10px 0px; width: 45px; height: 35px; line-height: 35px; background-repeat: no-repeat; position: static; text-align: center; vertical-align: middle;"><span class="gig-counter-text gig-share-counter-text gig-counter-text-right gig-share-counter-text-right" id="divButtons-reaction0-count-value">7</span></div>
+                                         </td>
+                                      </tr>
+                                   </tbody>
+                                </table>
+                             </div>
+                          </td>
+                          <td style="vertical-align:bottom; white-space:nowrap;zoom:1;">
+                             <div class="gig-button-container gig-button-container-count-none gig-button-container-twitter gig-button-container-twitter-count-none gig-share-button-container gig-button-container-horizontal">
+                                <div class="gig-button gig-share-button gig-button-up gig-button-count-none" id="divButtons-reaction1" title="" alt="" onclick="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction1'].onClick()" onmouseover="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction1'].changeState('over')" onmouseout="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction1'].changeState('up')" tabindex="0" role="button">
+                                   <table cellpadding="0" cellspacing="0" role="presentation">
+                                      <tbody>
+                                         <tr>
+                                            <td id="divButtons-reaction1-left" aria-hidden="true">
+                                               <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-0px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction1-left_img"></div>
+                                               </button>
+                                            </td>
+                                            <td id="divButtons-reaction1-icon" style="zoom:1;vertical-align:middle;text-align:left;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')">
+                                               <button aria-label="Twitter" type="button" class="tabbing-button" tabindex="0" style="height:25px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-80px 0px;width: 25px;height: 25px;line-height: 25px;background-repeat:no-repeat;position:static;" id="divButtons-reaction1-twitter_img"></div>
+                                               </button>
+                                            </td>
+                                            <td id="divButtons-reaction1-text" style="vertical-align:middle;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')" aria-hidden="true">
+                                               <div class="gig-button-text gig-share-button-text">Twitter</div>
+                                            </td>
+                                            <td id="divButtons-reaction1-right" aria-hidden="true">
+                                               <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-5px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction1-right_img"></div>
+                                               </button>
+                                            </td>
+                                         </tr>
+                                      </tbody>
+                                   </table>
+                                </div>
+                             </div>
+                          </td>
+                          <td style="vertical-align:bottom; white-space:nowrap;zoom:1;">
+                             <div class="gig-button-container gig-button-container-count-none gig-button-container-whatsapp gig-button-container-whatsapp-count-none gig-share-button-container gig-button-container-horizontal">
+                                <div class="gig-button gig-share-button gig-button-up gig-button-count-none" id="divButtons-reaction2" title="" alt="" onclick="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction2'].onClick()" onmouseover="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction2'].changeState('over')" onmouseout="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction2'].changeState('up')" tabindex="0" role="button">
+                                   <table cellpadding="0" cellspacing="0" role="presentation">
+                                      <tbody>
+                                         <tr>
+                                            <td id="divButtons-reaction2-left" aria-hidden="true">
+                                               <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-0px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction2-left_img"></div>
+                                               </button>
+                                            </td>
+                                            <td id="divButtons-reaction2-icon" style="zoom:1;vertical-align:middle;text-align:left;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')">
+                                               <button aria-label="WhatsApp" type="button" class="tabbing-button" tabindex="0" style="height:25px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-105px 0px;width: 25px;height: 25px;line-height: 25px;background-repeat:no-repeat;position:static;" id="divButtons-reaction2-whatsapp_img"></div>
+                                               </button>
+                                            </td>
+                                            <td id="divButtons-reaction2-text" style="vertical-align:middle;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')" aria-hidden="true">
+                                               <div class="gig-button-text gig-share-button-text">WhatsApp</div>
+                                            </td>
+                                            <td id="divButtons-reaction2-right" aria-hidden="true">
+                                               <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-5px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction2-right_img"></div>
+                                               </button>
+                                            </td>
+                                         </tr>
+                                      </tbody>
+                                   </table>
+                                </div>
+                             </div>
+                          </td>
+                          <td style="vertical-align:bottom; white-space:nowrap;zoom:1;">
+                             <div class="gig-button-container gig-button-container-count-none gig-button-container-email gig-button-container-email-count-none gig-share-button-container gig-button-container-horizontal">
+                                <div class="gig-button gig-share-button gig-button-up gig-button-count-none" id="divButtons-reaction3" title="" alt="" onclick="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction3'].onClick()" onmouseover="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction3'].changeState('over')" onmouseout="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction3'].changeState('up')" tabindex="0" role="button">
+                                   <table cellpadding="0" cellspacing="0" role="presentation">
+                                      <tbody>
+                                         <tr>
+                                            <td id="divButtons-reaction3-left" aria-hidden="true">
+                                               <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-0px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction3-left_img"></div>
+                                               </button>
+                                            </td>
+                                            <td id="divButtons-reaction3-icon" style="zoom:1;vertical-align:middle;text-align:left;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')">
+                                               <button aria-label="Correo electrónico" type="button" class="tabbing-button" tabindex="0" style="height:25px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-130px 0px;width: 25px;height: 25px;line-height: 25px;background-repeat:no-repeat;position:static;" id="divButtons-reaction3-email_img"></div>
+                                               </button>
+                                            </td>
+                                            <td id="divButtons-reaction3-text" style="vertical-align:middle;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')" aria-hidden="true">
+                                               <div class="gig-button-text gig-share-button-text">Correo electrónico</div>
+                                            </td>
+                                            <td id="divButtons-reaction3-right" aria-hidden="true">
+                                               <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-5px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction3-right_img"></div>
+                                               </button>
+                                            </td>
+                                         </tr>
+                                      </tbody>
+                                   </table>
+                                </div>
+                             </div>
+                          </td>
+                          <td style="vertical-align:bottom; white-space:nowrap;zoom:1;">
+                             <div class="gig-button-container gig-button-container-count-none gig-button-container-print gig-button-container-print-count-none gig-share-button-container gig-button-container-horizontal">
+                                <div class="gig-button gig-share-button gig-button-up gig-button-count-none" id="divButtons-reaction4" title="" alt="" onclick="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction4'].onClick()" onmouseover="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction4'].changeState('over')" onmouseout="gigya.services.socialize.plugins.reactions.instances['divButtons'].buttonInstances['divButtons-reaction4'].changeState('up')" tabindex="0" role="button">
+                                   <table cellpadding="0" cellspacing="0" role="presentation">
+                                      <tbody>
+                                         <tr>
+                                            <td id="divButtons-reaction4-left" aria-hidden="true">
+                                               <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-0px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction4-left_img"></div>
+                                               </button>
+                                            </td>
+                                            <td id="divButtons-reaction4-icon" style="zoom:1;vertical-align:middle;text-align:left;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')">
+                                               <button aria-label="Imprimir" type="button" class="tabbing-button" tabindex="0" style="height:25px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-155px 0px;width: 25px;height: 25px;line-height: 25px;background-repeat:no-repeat;position:static;" id="divButtons-reaction4-print_img"></div>
+                                               </button>
+                                            </td>
+                                            <td id="divButtons-reaction4-text" style="vertical-align:middle;background-repeat:repeat-x;background-image:url('https://cdns.gigya.com/gs/i/shareBar/button/mobile/buttonCenterImgUp.png')" aria-hidden="true">
+                                               <div class="gig-button-text gig-share-button-text">Imprimir</div>
+                                            </td>
+                                            <td id="divButtons-reaction4-right" aria-hidden="true">
+                                               <button aria-label="" type="button" class="tabbing-button" tabindex="-1" style="height:35px;">
+                                                  <div aria-hidden="true" style="background-image:url('https://cdns2.gigya.com/gs/GetSprite.ashx?path=%2FshareBar%2Fbutton%2Fmobile%2Fbutton%5Bleft%2Cright%5DImg%5Bup%5D.png%7C5%2C35%5E%2FshareBar%2Fbutton%2Fmobile%2FrightCountImg.png%7C45%2C35%5E%2Fsharebar%2Ficons%2Fmobile%2F%5Bfacebook%2Ctwitter%2Cwhatsapp%2Cemail%2Cprint%5D.png%7C25%2C25');background-position:-5px 0px;width: 5px;height: 35px;line-height: 35px;background-repeat:no-repeat;position:static;" id="divButtons-reaction4-right_img"></div>
+                                               </button>
+                                            </td>
+                                         </tr>
+                                      </tbody>
+                                   </table>
+                                </div>
+                             </div>
+                          </td>
+                       </tr>
+                    </tbody>
+                 </table>
+              </div>
+           </div>
+           <div class="toolbar-item toolbar-item-share top-share">
+              <ul>
+                 <li data-btnclick="divButtons-reaction0"><a href="#"><i class="end-icon-facebook"></i><span class="nodisplay">Facebook</span></a><a href="#" class="total">7</a></li>
+                 <li data-btnclick="divButtons-reaction1"><a href="#"><i class="end-icon-twitter"></i><span class="nodisplay">Twitter</span></a></li>
+                 <li class="wApp" data-btnclick="divButtons-reaction2"><a href="#"><i class="fa fa-whatsapp"> </i><span class="nodisplay">WhatsApp</span></a></li>
+                 <li class="mas-trigger" data-btnclick="divButtons-reaction3"><a href="#"><i class="ss-standard ss-icon">✉</i><span class="nodisplay">Email</span></a></li>
+                 <li class="print-article" data-btnclick="divButtons-reaction4"><a href="#" title="Imprimir"><i class="option-print ss-icon">⎙</i></a></li>
+              </ul>
+           </div>
+        </div>
+     </div>
+     <div id="header-banner-wrapper"></div>
+     <div class="row">
+        <div class="bk4-primary">
+           <div class="article-body">
+              <div class="ENDMainAsset">
+              </div>
+              <div class="ENDBody content-block article-body-block">
+                 <p class="content-element"><b>Nueva York</b> - La empresa de conexiones laborales <a href="https://pr.linkedin.com/company/elnuevodia" target="_blank">LinkedIn </a>despedirá a casi 1,000 empleados, que representan aproximadamente el 6% de su fuerza laboral global, en medio de una desaceleración en las contrataciones por la pandemia de coronavirus, que presiona muchos negocios.</p>
+                 <aside class="related-stories article-body-drop content-element">
+                    <div class="related-stories-header eta">
+                       <h1 class="amp-sh1">Relacionados:</h1>
+                    </div>
+                    <article class="story-tease-beta">
+                       <h1 class="story-tease-title"><a href="/opinion/punto-de-vista/cambio-constitucional-en-la-pandemia/">¿Cambio constitucional en la pandemia?</a></h1>
+                    </article>
+                 </aside>
+                 <div id="inline-paywall-container"></div>
+                 <p class="content-element">Los despidos ocurren mientras la tasa de desempleo en Estados Unidos supera el 13% y mientras las economías nacionales en América, Europa y Asia se contraen debido a la crisis de salud.</p>
+                 <p class="content-element">El <a href="https://www.elnuevodia.com/topicos/coronavirus/" target="_blank">coronavirus </a>ha interrumpido el comercio a nivel mundial, cerrando miles de negocios mientras obliga a otros a suspender o despedir a un gran número de empleados mientras esperan una recuperación. Las contrataciones han disminuido drásticamente.</p>
+                 <p class="content-element">En Estados Unidos, el número de personas que han solicitado el seguro por desempleo se ha mantenido alto en las últimas semanas, una señal de que muchas empresas todavía están despidiendo trabajadores. La tasa de desempleo en mayo fue del 13.3% frente a 14.7% en abril, según el Departamento de Trabajo.</p>
+                 <div data-lazy="scroller">
+                    <div id="scroller" data-ad="scroller" class="Ad__center" style="display: none;"></div>
+                 </div>
+                 <div id="scroller_container" class="scroller_container" style="display: none;"></div>
+                 <div data-lazy="intxtad">
+                    <div id="intxtElement" style="display: none; background-color: rgb(245, 245, 245); margin: auto auto 31px; padding-top: 15px; padding-bottom: 15px; width: 320px; text-align: center;">
+                       <p id="intxtPElement" style="font-size: 10px; color: rgb(102, 102, 102); font-weight: bold; text-align: center; margin-bottom: 10px; font-family: Helvetica;">PUBLICIDAD</p>
+                       <div id="intxtad" data-ad="intxtad"></div>
+                    </div>
+                 </div>
+                 <p class="content-element"><b>En una nota a los empleados, el CEO de LinkedIn, Ryan Roslansky, dijo que los puestos que serán eliminados están en sus departamentos globales de ventas y adquisición de talento. Aseguró que son los únicos despidos la empresa tiene entre sus planes.</b></p>
+                 <p class="content-element">Los empleados que serán despedidos en Estados Unidos permanecerán en sus puestos hasta el 21 de agosto. Recibirán al menos 10 semanas de indemnización por despido y un año de cobertura médica continua.</p>
+                 <p class="content-element">La compañía, que no cotiza en bolsa, tiene su sede en Sunnyvale, California.</p>
+              </div>
+              <div id="footer-banner-wrapper"></div>
+              <div data-lazy="btf300_2">
+                 <div id="btf300_2" data-ad="btf300_2" class="Ad__center" style="display: none;"></div>
+              </div>
+              <a name="comments"></a><a href="#comments" class="trigger-comments button-primary" id="btnComentarios" style="display: block;"><i class="ss-icon"></i></a><a name="comentarios" id="comentarios">&nbsp;</a>
+              <div id="commentsDiv" style="display: none;"></div>
+              <aside class="tags">
+                 <h1>Tags:</h1>
+                 <ul>
+                    <li><i class="ss-tag"></i><a href="/topicos/linkedin/">LinkedIn</a></li>
+                    <li><i class="ss-tag"></i><a href="/topicos/coronavirus/">Coronavirus</a></li>
+                 </ul>
+              </aside>
+              <div id="divButtons"></div>
+              <div class="toolbar">
+                 <div class="toolbar-item toolbar-item-share top-share">
+                    <ul>
+                       <li data-btnclick="divButtons-reaction0"><a href="#"><i class="end-icon-facebook"></i><span class="nodisplay">Facebook</span></a><a href="#" class="total">7</a></li>
+                       <li data-btnclick="divButtons-reaction1"><a href="#"><i class="end-icon-twitter"></i><span class="nodisplay">Twitter</span></a></li>
+                       <li class="wApp" data-btnclick="divButtons-reaction2"><a href="#"><i class="fa fa-whatsapp"> </i><span class="nodisplay">WhatsApp</span></a></li>
+                       <li class="mas-trigger" data-btnclick="divButtons-reaction3"><a href="#"><i class="ss-standard ss-icon">✉</i><span class="nodisplay">Email</span></a></li>
+                       <li class="print-article" data-btnclick="divButtons-reaction4"><a href="#" title="Imprimir"><i class="option-print ss-icon">⎙</i></a></li>
+                    </ul>
+                 </div>
+              </div>
+           </div>
+           <div class="row">
+              <div id="cx_dc0b09f5931231a9aa3d0268d01aa48df296352c"></div>
+              <div class="OUTBRAIN" data-src="https://www.elnuevodia.com/tecnologia/redes-sociales/notas/linkedin-despedira-a-casi-1000-empleados/" data-widget-id="AR_10" data-ob-template="elnuevodia"></div>
+           </div>
+        </div>
+        <div class="bk4-secondary">
+           <div data-lazy="atf300">
+              <div id="atf300" data-ad="atf300" class="Ad__center" style="display: none;"></div>
+           </div>
+           <div>
+              <div id="widget-cls"></div>
+              <div id="widget-holder" style="display: none;"></div>
+           </div>
+           <div id="send2News" class="Send2News"></div>
+           <aside class="highlight-box ">
+              <div class="highlight-box-header ">
+                 <h1>Más en Tecnología</h1>
+              </div>
+              <div class="tabs-container tabs-blue accordion-init tabs-init">
+                 <nav class="tabs-menu">
+                    <ul>
+                       <li data-index="0"><a class="active"><span class="label">+Vistas</span></a></li>
+                       <li data-index="1"><a class=""><span class="label">+RECIENTES</span></a></li>
+                    </ul>
+                 </nav>
+                 <div class="tabs-window">
+                    <a href="#" class="accordion-trigger" data-index="0"><span class="label">+Vistas</span></a>
+                    <div class="tabs-view active" data-template="story-listing" style="display: block;">
+                       <div class="story-listing">
+                          <ol class="story-listing">
+                             <li class="story-tease-beta">
+                                <div class="story-tease-body">
+                                   <h1 class="story-tease-title"><a href="https://www.elnuevodia.com/tecnologia/tecnologia/nota/asipuedescreartuversiondefacebookavatar-2572567/?utm_source=elnuevodia.com&amp;utm_medium=widget&amp;utm_campaign=las_mas_vistas" data-actiontype="Headline">Así puedes crear tu versión de Facebook Avatar</a></h1>
+                                </div>
+                             </li>
+                          </ol>
+                       </div>
+                    </div>
+                    <a href="#" class="accordion-trigger" data-index="1"><span class="label">+RECIENTES</span></a>
+                    <div class="tabs-view" data-template="story-listing" style="display: none;">
+                       <div class="story-listing"></div>
+                    </div>
+                 </div>
+              </div>
+           </aside>
+           <aside class="highlight-box ">
+              <div class="highlight-box-header ">
+                 <h1>Destacados</h1>
+              </div>
+              <div class="tabs-container tabs-orange accordion-init tabs-init">
+                 <nav class="tabs-menu">
+                    <ul>
+                       <li data-index="0"><a class="active"><span class="label">PORTADA</span></a></li>
+                       <li data-index="1"><a class=""><span class="ss-icon">▶</span></a></li>
+                       <li data-index="2"><a class=""><span class="ss-icon">🌄</span></a></li>
+                    </ul>
+                 </nav>
+                 <div class="tabs-window">
+                    <a href="#" class="accordion-trigger" data-index="0"><span class="label">PORTADA</span></a>
+                    <div class="tabs-view active" data-template="story-listing" style="display: block;">
+                       <div class="story-listing">
+                          <div class="">
+                             <article class="story-tease-beta">
+                                <div class="story-tease-image">
+                                   <a id="teaser-image-link-0fzxyXYzhLz9Oir-no-video" href="/noticias/seguridad/notas/el-juez-federal-gustavo-gelpi-confirma-que-ya-no-trasladaran-reos-desde-estados-unidos/" data-actiontype="Image">
+                                      <picture class="ResponsiveImage">
+                                         <source media="(max-width: 749px)" srcset="https://www.elnuevodia.com/resizer/KFwSL1ajdl6oBN21ehfXZD_Eke8=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/UA6FUESYBNFAHF7BROEPLL5GJE.jpg, https://www.elnuevodia.com/resizer/P9_QCjeKzJ1u18Wk2nZtk6D9ujQ=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/UA6FUESYBNFAHF7BROEPLL5GJE.jpg 2x">
+                                         <source media="(max-width: 768px)" srcset="https://www.elnuevodia.com/resizer/M7avyiS02LLEgC9TQVfB3q2KQeA=/71x62/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/UA6FUESYBNFAHF7BROEPLL5GJE.jpg, https://www.elnuevodia.com/resizer/Q6npXgHdJvSZZ_-iRDOwy-xblX8=/142x124/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/UA6FUESYBNFAHF7BROEPLL5GJE.jpg 2x">
+                                         <source srcset="https://www.elnuevodia.com/resizer/Hvy4_Xd6SLWtGdbZJVkcXlvn3Zo=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/UA6FUESYBNFAHF7BROEPLL5GJE.jpg, https://www.elnuevodia.com/resizer/mMQAvdqgzwPFAAXAUcxVnLv6EKY=/376x326/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/UA6FUESYBNFAHF7BROEPLL5GJE.jpg 2x">
+                                         <img class="ResponsiveImage__img" src="https://www.elnuevodia.com/resizer/Hvy4_Xd6SLWtGdbZJVkcXlvn3Zo=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/UA6FUESYBNFAHF7BROEPLL5GJE.jpg">
+                                      </picture>
+                                   </a>
+                                </div>
+                                <div class="story-tease-body">
+                                   <h1 class="story-tease-title"><a href="/noticias/seguridad/notas/el-juez-federal-gustavo-gelpi-confirma-que-ya-no-trasladaran-reos-desde-estados-unidos/" data-actiontype="Headline">El juez federal Gustavo Gelpí confirma que ya no trasladarán reos desde Estados Unidos</a></h1>
+                                </div>
+                             </article>
+                          </div>
+                          <div class="">
+                             <article class="story-tease-beta">
+                                <div class="story-tease-image">
+                                   <a id="teaser-image-link-0fzxyXYzhLz9Oir-no-video" href="/corresponsalias/washington-dc/notas/los-republicanos-del-senado-recortarian-la-asistencia-federal-por-desempleo/" data-actiontype="Image">
+                                      <picture class="ResponsiveImage">
+                                         <source media="(max-width: 749px)" srcset="https://www.elnuevodia.com/resizer/0n8hmo6oXq3IdYwyuZQZwzJVGos=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/NQJJIY3G3FCNJNRWRLEVHDGJ4M.jpg, https://www.elnuevodia.com/resizer/B9FIPtURQPSbLAxFZnuKQLGq7cU=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/NQJJIY3G3FCNJNRWRLEVHDGJ4M.jpg 2x">
+                                         <source media="(max-width: 768px)" srcset="https://www.elnuevodia.com/resizer/xrUmB2ILoYCbQge7XwxyKr2uUvY=/71x62/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/NQJJIY3G3FCNJNRWRLEVHDGJ4M.jpg, https://www.elnuevodia.com/resizer/yMc2qXtHqXzAOmaZGqgMKvnf0No=/142x124/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/NQJJIY3G3FCNJNRWRLEVHDGJ4M.jpg 2x">
+                                         <source srcset="https://www.elnuevodia.com/resizer/UdqqznNyFAw9YQQciTTCMIGo1QM=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/NQJJIY3G3FCNJNRWRLEVHDGJ4M.jpg, https://www.elnuevodia.com/resizer/vPDt5wLzTdIRBtcVMKFDP7SKGSE=/376x326/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/NQJJIY3G3FCNJNRWRLEVHDGJ4M.jpg 2x">
+                                         <img class="ResponsiveImage__img" src="https://www.elnuevodia.com/resizer/UdqqznNyFAw9YQQciTTCMIGo1QM=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/NQJJIY3G3FCNJNRWRLEVHDGJ4M.jpg">
+                                      </picture>
+                                   </a>
+                                </div>
+                                <div class="story-tease-body">
+                                   <h1 class="story-tease-title"><a href="/corresponsalias/washington-dc/notas/los-republicanos-del-senado-recortarian-la-asistencia-federal-por-desempleo/" data-actiontype="Headline">Los republicanos del Senado recortarían la asistencia federal por desempleo</a></h1>
+                                </div>
+                             </article>
+                          </div>
+                          <div class="">
+                             <article class="story-tease-beta">
+                                <div class="story-tease-image">
+                                   <a id="teaser-image-link-0fzxyXYzhLz9Oir-no-video" href="/noticias/locales/notas/daran-hasta-900-a-familias-de-bajos-ingresos-para-el-pago-de-la-luz/" data-actiontype="Image">
+                                      <picture class="ResponsiveImage">
+                                         <source media="(max-width: 749px)" srcset="https://www.elnuevodia.com/resizer/CWxhcGDEwPKEr7r814eX49wM5tg=/564x489/filters:quality(95):format(png):focal(3457x1803:3467x1793)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SGWEKEPMIFBXBEZPASFK5IXZAU.jpg, https://www.elnuevodia.com/resizer/uDX2646OveGma8vWAgBUjru9YKo=/1128x978/filters:quality(95):format(png):focal(3457x1803:3467x1793)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SGWEKEPMIFBXBEZPASFK5IXZAU.jpg 2x">
+                                         <source media="(max-width: 768px)" srcset="https://www.elnuevodia.com/resizer/H3xdcQkXWw3u3fGtxXebyWGlgc4=/71x62/filters:quality(95):format(png):focal(3457x1803:3467x1793)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SGWEKEPMIFBXBEZPASFK5IXZAU.jpg, https://www.elnuevodia.com/resizer/nd88_1DTW7Cj5hGkDLs4YDVQp3s=/142x124/filters:quality(95):format(png):focal(3457x1803:3467x1793)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SGWEKEPMIFBXBEZPASFK5IXZAU.jpg 2x">
+                                         <source srcset="https://www.elnuevodia.com/resizer/w0h6fWQaNXRbStfmbjOicfEaOK8=/188x163/filters:quality(95):format(png):focal(3457x1803:3467x1793)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SGWEKEPMIFBXBEZPASFK5IXZAU.jpg, https://www.elnuevodia.com/resizer/IJoKNHMK5A6sZVVcJwOjPeA7-HI=/376x326/filters:quality(95):format(png):focal(3457x1803:3467x1793)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SGWEKEPMIFBXBEZPASFK5IXZAU.jpg 2x">
+                                         <img class="ResponsiveImage__img" src="https://www.elnuevodia.com/resizer/w0h6fWQaNXRbStfmbjOicfEaOK8=/188x163/filters:quality(95):format(png):focal(3457x1803:3467x1793)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SGWEKEPMIFBXBEZPASFK5IXZAU.jpg">
+                                      </picture>
+                                   </a>
+                                </div>
+                                <div class="story-tease-body">
+                                   <h1 class="story-tease-title"><a href="/noticias/locales/notas/daran-hasta-900-a-familias-de-bajos-ingresos-para-el-pago-de-la-luz/" data-actiontype="Headline">Darán hasta $900 a familias de bajos ingresos para el pago de la luz</a></h1>
+                                </div>
+                             </article>
+                          </div>
+                          <div class="">
+                             <article class="story-tease-beta">
+                                <div class="story-tease-image">
+                                   <a id="teaser-image-link-0fzxyXYzhLz9Oir-no-video" href="/noticias/estados-unidos/notas/un-hombre-que-compro-un-lamborghini-con-ayuda-federal-de-covid-19-es-arrestado-en-estados-unidos/" data-actiontype="Image">
+                                      <picture class="ResponsiveImage">
+                                         <source media="(max-width: 749px)" srcset="https://www.elnuevodia.com/resizer/615nTzFLahVgm8K13q5QOogi8U4=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/DXHRKFZ6RFDQ5LZHIDS7ZSAYII.jpg, https://www.elnuevodia.com/resizer/oMSyQwp9Gy8Cf5Bp012XAFih-nc=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/DXHRKFZ6RFDQ5LZHIDS7ZSAYII.jpg 2x">
+                                         <source media="(max-width: 768px)" srcset="https://www.elnuevodia.com/resizer/9-bpB28Igwvb09wYOv_n5CyWL_k=/71x62/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/DXHRKFZ6RFDQ5LZHIDS7ZSAYII.jpg, https://www.elnuevodia.com/resizer/txwBdBJE-ACxgpKzZfHaPfDgbxQ=/142x124/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/DXHRKFZ6RFDQ5LZHIDS7ZSAYII.jpg 2x">
+                                         <source srcset="https://www.elnuevodia.com/resizer/zKXeELh0RHrVpHIBozAVCeW36iE=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/DXHRKFZ6RFDQ5LZHIDS7ZSAYII.jpg, https://www.elnuevodia.com/resizer/GKoJCZP_h0d_Wb8uF_qQR74FgFk=/376x326/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/DXHRKFZ6RFDQ5LZHIDS7ZSAYII.jpg 2x">
+                                         <img class="ResponsiveImage__img" src="https://www.elnuevodia.com/resizer/zKXeELh0RHrVpHIBozAVCeW36iE=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/DXHRKFZ6RFDQ5LZHIDS7ZSAYII.jpg">
+                                      </picture>
+                                   </a>
+                                </div>
+                                <div class="story-tease-body">
+                                   <h1 class="story-tease-title"><a href="/noticias/estados-unidos/notas/un-hombre-que-compro-un-lamborghini-con-ayuda-federal-de-covid-19-es-arrestado-en-estados-unidos/" data-actiontype="Headline">Un hombre que compró un Lamborghini con ayuda federal de COVID-19 es arrestado en Estados Unidos</a></h1>
+                                </div>
+                             </article>
+                          </div>
+                          <div class="">
+                             <article class="story-tease-beta">
+                                <div class="story-tease-image">
+                                   <a id="teaser-image-link-0fzxyXYzhLz9Oir-no-video" href="/noticias/seguridad/notas/arrestan-a-un-hombre-mientras-intentaba-cambiar-fraudulentamente-un-cheque-del-programa-pua/" data-actiontype="Image">
+                                      <picture class="ResponsiveImage">
+                                         <source media="(max-width: 749px)" srcset="https://www.elnuevodia.com/resizer/-1UiOT4NfkE4WlgSsKxqSHOqWWU=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/FZZSPKU5PBAJHLR3KOELPIC6IU.JPG, https://www.elnuevodia.com/resizer/-I36F9VXJ5UUOOBrIj8qAgEBQm0=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/FZZSPKU5PBAJHLR3KOELPIC6IU.JPG 2x">
+                                         <source media="(max-width: 768px)" srcset="https://www.elnuevodia.com/resizer/lAXbdFK6nReztjpiiBGj0G8YjLY=/71x62/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/FZZSPKU5PBAJHLR3KOELPIC6IU.JPG, https://www.elnuevodia.com/resizer/GD-ZXVBrnfMxCVZPxx9Mc6dOlsQ=/142x124/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/FZZSPKU5PBAJHLR3KOELPIC6IU.JPG 2x">
+                                         <source srcset="https://www.elnuevodia.com/resizer/SkGmrbWMc7qDOFQbFqtQVCay2cA=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/FZZSPKU5PBAJHLR3KOELPIC6IU.JPG, https://www.elnuevodia.com/resizer/CxPgyn2-CiH3PqpkMMH1colnueA=/376x326/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/FZZSPKU5PBAJHLR3KOELPIC6IU.JPG 2x">
+                                         <img class="ResponsiveImage__img" src="https://www.elnuevodia.com/resizer/SkGmrbWMc7qDOFQbFqtQVCay2cA=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/FZZSPKU5PBAJHLR3KOELPIC6IU.JPG">
+                                      </picture>
+                                   </a>
+                                </div>
+                                <div class="story-tease-body">
+                                   <h1 class="story-tease-title"><a href="/noticias/seguridad/notas/arrestan-a-un-hombre-mientras-intentaba-cambiar-fraudulentamente-un-cheque-del-programa-pua/" data-actiontype="Headline">Arrestan a un hombre mientras intentaba cambiar fraudulentamente un cheque del programa PUA</a></h1>
+                                </div>
+                             </article>
+                          </div>
+                       </div>
+                    </div>
+                    <a href="#" class="accordion-trigger" data-index="1"><span class="label"></span></a>
+                    <div class="tabs-view" data-template="story-listing" style="display: none;">
+                       <div class="story-listing"></div>
+                    </div>
+                    <a href="#" class="accordion-trigger" data-index="2"><span class="label"></span></a>
+                    <div class="tabs-view" data-template="story-listing" style="display: none;">
+                       <div class="story-listing"></div>
+                    </div>
+                 </div>
+              </div>
+           </aside>
+        </div>
+     </div>
+  </div>
+</div>
